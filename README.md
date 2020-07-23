@@ -14,6 +14,12 @@ Selenium WebDriver is licensed with Attribution-ShareAlike 4.0 International (CC
 
 license: https://matplotlib.org/users/license.html
 
+## Install numpy 
+`pip install numpy`to install numpy
+
+github repo: https://github.com/numpy/numpy
+license: https://github.com/numpy/numpy/blob/master/LICENSE.txt
+
 ## Install driver for your browser (Google Chrome for example)
 
 go to https://sites.google.com/a/chromium.org/chromedriver/downloads and install the webdriver for your browser version
