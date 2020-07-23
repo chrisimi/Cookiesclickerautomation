@@ -7,9 +7,12 @@ A little python script which can automate the cookie clicker on https://cookiesc
 `pip install selenium` to install selenium
 more information https://selenium-python.readthedocs.io/
 
+Selenium WebDriver is licensed with Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) more under https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Install matplotlib for graph 
 `pip install matplotlib ` to install matplotlib for displaying a graph
+
+license: https://matplotlib.org/users/license.html
 
 ## Install driver for your browser (Google Chrome for example)
 
