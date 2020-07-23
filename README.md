@@ -33,4 +33,4 @@ The program interacts with the HTML code of the website and manipulates it.
 
 When the program crashed or you closed the browser, a graph will be generated which shows the amount of cookies at time x
 
-Feel free to make a Pull request if you implemented new features :).
+Feel free to make a Pull request if you have implemented new features :).
